@@ -54,7 +54,8 @@ A powerful, asynchronous Telegram bot designed to manage games, schedule events,
 | Technology | Purpose |
 | :--- | :--- |
 | **Python 3** | Core programming language |
-| **python-telegram-bot (v21.7)** | Asynchronous Telegram Bot API framework |
+| **CustomTkinter** | Modern dark-mode GUI for the Windows Desktop Application (`.exe`) |
+| **python-telegram-bot (v21.7)** | Asynchronous Telegram Bot API framework for 24/7 cloud automation |
 | **requests (>=2.31.0)** | HTTP client for Supabase REST endpoints & AppsFlyer API |
 | **certifi (>=2024.2.2)** | SSL certificate validation |
 | **Supabase** | Cloud PostgreSQL database & GoTrue Auth (Admin & User level) |
@@ -62,20 +63,19 @@ A powerful, asynchronous Telegram bot designed to manage games, schedule events,
 
 ---
 
-## 💰 Pricing & Subscription Plans
+## 💰 Subscription Plans & Pricing
 
-Game access and bot licensing options:
+Game access and subscription rates are **flexible and updated regularly** based on platform requirements (Android GAID vs iOS IDFA), slot allocations, and active promotional discounts.
 
-| Plan Validity | Estimated Price (USD) |
-| :--- | :--- |
-| **15 Days** | ~$15 |
-| **1 Month** | ~$20 |
-| **2 Months** | ~$30 |
-| **3 Months** | ~$40 |
-| **6 Months** | ~$60 |
+| Plan Tier | Validity Duration | Pricing Status |
+| :--- | :--- | :--- |
+| **Starter Tier** | 15 Days | Contact Admin for Current Price |
+| **Standard Tier** | 1 Month | Contact Admin for Current Price |
+| **Pro Tier** | 3 Months | Contact Admin for Current Price |
+| **VIP / Long-Term Tier** | 6 Months | Contact Admin for Current Price |
 
-> *Note: Pricing can vary based on single-platform (Android or iOS) versus dual-platform bundles.*  
-> For licensing, custom game packages, or purchasing access, contact the admin on Telegram: **[@whoiam31](https://t.me/whoiam31)**.
+> 💬 **For latest pricing, custom bundles, or purchase inquiries, contact the administrator directly on Telegram:**  
+> 👉 **[@whoiam31](https://t.me/whoiam31)**
 
 ---
 
